@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mic Recorder</string>
+    <string name="status_ready">Ready to record</string>
+    <string name="status_recording">Recording…</string>
+    <string name="status_paused">Paused</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="play">Play</string>
+    <string name="close">Close</string>
+    <string name="more">More</string>
+    <string name="recordings_header">Recordings (%d)</string>
+    <string name="empty_list">No recordings yet.\nTap the red button to start.</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_confirm">Delete \"%s\"?</string>
+    <string name="name_exists">A recording with that name already exists</string>
+    <string name="rename_failed">Could not rename the file</string>
+    <string name="play_failed">Could not play this file</string>
+    <string name="no_play_while_recording">Stop recording before playing</string>
+    <string name="error_start">Could not start recording. The microphone may be in use.</string>
+    <string name="saved">Saved: %s</string>
+    <string name="quality">Recording quality</string>
+    <string name="quality_high">High (128 kbps, 44.1 kHz)</string>
+    <string name="quality_standard">Standard (64 kbps, 44.1 kHz)</string>
+    <string name="quality_low">Low (32 kbps, 22 kHz) – smallest files</string>
+    <string name="perm_needed">Microphone permission is required to record</string>
+    <string name="perm_title">Permission needed</string>
+    <string name="perm_settings_msg">Microphone access was denied. Open Settings to allow it?</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="notif_channel">Recording</string>
+    <string name="notif_recording">Recording audio</string>
+    <string name="notif_paused">Recording paused</string>
+</resources>

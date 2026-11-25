@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi Âm</string>
+    <string name="status_ready">Sẵn sàng ghi âm</string>
+    <string name="status_recording">Đang ghi âm…</string>
+    <string name="status_paused">Đã tạm dừng</string>
+    <string name="record">Ghi âm</string>
+    <string name="stop">Dừng</string>
+    <string name="pause">Tạm dừng</string>
+    <string name="resume">Tiếp tục</string>
+    <string name="play">Phát</string>
+    <string name="close">Đóng</string>
+    <string name="more">Thêm</string>
+    <string name="recordings_header">Bản ghi (%d)</string>
+    <string name="empty_list">Chưa có bản ghi nào.\nBấm nút đỏ để bắt đầu.</string>
+    <string name="rename">Đổi tên</string>
+    <string name="share">Chia sẻ</string>
+    <string name="delete">Xoá</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Huỷ</string>
+    <string name="delete_confirm">Xoá \"%s\"?</string>
+    <string name="name_exists">Đã có bản ghi trùng tên</string>
+    <string name="rename_failed">Không đổi tên được</string>
+    <string name="play_failed">Không phát được tệp này</string>
+    <string name="no_play_while_recording">Hãy dừng ghi âm trước khi phát</string>
+    <string name="error_start">Không thể bắt đầu ghi âm. Micro có thể đang bị ứng dụng khác dùng.</string>
+    <string name="saved">Đã lưu: %s</string>
+    <string name="quality">Chất lượng ghi âm</string>
+    <string name="quality_high">Cao (128 kbps, 44.1 kHz)</string>
+    <string name="quality_standard">Tiêu chuẩn (64 kbps, 44.1 kHz)</string>
+    <string name="quality_low">Thấp (32 kbps, 22 kHz) – tệp nhỏ nhất</string>
+    <string name="perm_needed">Cần quyền Micro để ghi âm</string>
+    <string name="perm_title">Cần cấp quyền</string>
+    <string name="perm_settings_msg">Quyền Micro đã bị từ chối. Mở Cài đặt để cấp quyền?</string>
+    <string name="open_settings">Mở Cài đặt</string>
+    <string name="notif_channel">Ghi âm</string>
+    <string name="notif_recording">Đang ghi âm</string>
+    <string name="notif_paused">Đã tạm dừng ghi âm</string>
+</resources>
